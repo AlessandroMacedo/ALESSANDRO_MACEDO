@@ -26,7 +26,7 @@
 
     <h3>Alessandro Macedo</h3>
     <div class="desc">
-      "A tecnologia pode salvar o planeta - basta ser usada para os objetivos corretos"
+      "A tecnologia pode salvar o planeta, basta ser usada para os objetivos corretos"
 
     </div>
     <div class="contacts">
@@ -40,6 +40,7 @@
       <a href="https://www.facebook.com/me/"><i class="fa fa-facebook"></i></a>
       <a href="https://www.linkedin.com/in/alessandro-macedo-04450b14a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BxYGvFqftQNyJS4Vf3wIksQ%3D%3D"><i class="fa fa-linkedin"></i></a>
       <a href="mailto:Alessandro95547@gmail.com"><i class="fa fa-envelope"></i></a>
+    <a href="https://github.com/AlessandroMacedo"><i class="fa fa-github"></i></a>
     </footer>
   </div>
 
