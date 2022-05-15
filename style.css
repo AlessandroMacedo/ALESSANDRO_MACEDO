@@ -26,7 +26,7 @@ body {
 
 /*** CARD STLES ***/
 .cards-container {
-  width: 600px;
+  width: 400px;
   max-width: 100%;
   margin: 2rem auto;
 }
@@ -38,9 +38,9 @@ body {
 
 .card-one {
   position: relative;
-  width: 500px;
+  width: 320px;
   background: #fff;
-  box-shadow: 0 20px 20px -5px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.4);
 }
 .card-one header {
   position: relative;
