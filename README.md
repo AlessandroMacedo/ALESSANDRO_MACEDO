@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <title>CodePen - Profile Cards</title>
-  <link href ="https://alessandromacedo.github.io/ALESSANDRO_MACEDO/style.css"  rel = "stylesheet"/>
+  <link href ="https://alessandromacedo.github.io/  rel = "stylesheet"/>
   <script src = "https://alessandromacedo.github.io/ALESSANDRO_MACEDO/script.js"></script>
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
